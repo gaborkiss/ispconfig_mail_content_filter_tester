@@ -1,1 +1,1 @@
-# ispconfig_content_mail_filter_tester
+# ispconfig_mail_content_filter_tester
